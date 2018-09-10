@@ -6,8 +6,11 @@ Requirements: Compiled Ptycholib and Matlab
 Procedure:
 
 Step 1: Fire up Matlab, generate a probe guess in Matlab. 
+
 	      probe=v2_quick_probe(0.1,0,0,0,10.4,800000,1)
+	      
           --parameters are thickness, theta, twotheta, defocus, E (kev), detector distance, 1)
+	  
         Save it, use probe_test.ipynb to look at the probe and save to text file
 
 Step 2: Use the text file from probe_test.ipynb as input probe guess
