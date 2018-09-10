@@ -25,3 +25,7 @@ Step 4: Modify runptycho.sh appropriately and run
 
 Step 5: Use ptycho_analysis.ipynb to viz the output
 
+Example data contains a probe defocussed by 30 microns at 10.4 keV (.txt file at .mat file) and reconstructions of a test pattern sampled in overlap steps of 30 nm (.csv files)
+
+
+
